@@ -2,12 +2,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>Ying Ge</h1>
+      <p><b>Philosophiae Doctor</b></p>
+      <p><b>ZJNU - Zhejiang Normal University</b></p>
+      <p><b>邮箱：yingge@mail.zjnu.edu.cn</b></p>
+      <p><b>邮箱：1434305984@qq.com</b></p>
+<!--       <p><a href="/index-en.html">English Version</a></p> -->
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
@@ -18,31 +18,16 @@
 
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+Ge Ying received the bachelor’s degree from Department of Computer Science, Zhejiang Normal University, Jinhua, China, in 2021 and is currently pursuing the Ph.D. degree at Zhejiang Normal University. His research interests include computer vision, object tracking and multimodal fusion.
 
 ---
 
-### 最新消息
-1. 消息1×××
+### Research Topic
+1. Computer Vision and Pattern Recognition: Single Object Tracking, Multimodal Tracking...
+   
+2.Multi-modal and Multi-media: Vision-Language, Vision-Thermal (Infrared), Vision-Depth, Vision-Event, etc.
 
-### 研究方向
-- 文本挖掘
-- 知识图谱
-
-### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
-
-### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
-
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+### Publications
+- Temporal adaptive bidirectional bridging for RGB-D tracking. Ge Ying, Dawei Zhang, Zhou Ou, Xiao Wang, Zhonglong Zheng. Pattern Recognition, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0031320324008045)
+- UBPT: Unidirectional and Bidirectional Prompts for RGBD Tracking. Ou, Zhou and Zhang, Dawei and Ying, Ge and Zheng, Zhonglong. Sensors Journal, 2024 [paper](https://ieeexplore.ieee.org/abstract/document/10706817)
+- A Survey of RGB-Depth Object Tracking. Ou Zhou, Ying Ge, Zhang Dawei, Zheng Zhonglong. Journal of Computer-Aided Design & Computer Graphics, 2024. [paper](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.2023-00537)
